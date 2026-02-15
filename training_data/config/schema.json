@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "description": "Ren's robot arm training data schema",
+  "demo_format": {
+    "id": "unique demo identifier (timestamp-based)",
+    "task": "description of what the demo shows",
+    "recorded_at": "ISO timestamp",
+    "duration_sec": "length of demo",
+    "files": {
+      "trajectory": "joint positions JSON",
+      "video": "MP4 video file",
+      "frames": "extracted frame images directory"
+    },
+    "metadata": {
+      "leader_port": "serial port used",
+      "follower_port": "serial port used", 
+      "hz": "position recording frequency",
+      "video_fps": "video frame rate",
+      "success": "did replay work correctly?",
+      "notes": "any observations"
+    }
+  }
+}

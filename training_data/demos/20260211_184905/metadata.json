@@ -1,0 +1,18 @@
+{
+  "id": "20260211_184905",
+  "task": "picking up a box",
+  "recorded_at": "2026-02-11T18:49:05.605103",
+  "duration_sec": 19.96,
+  "num_trajectory_points": 167,
+  "num_video_frames": 197,
+  "files": {
+    "trajectory": "trajectory.json",
+    "video": "video.mp4",
+    "frames": "frames/"
+  },
+  "metadata": {
+    "hz": 8.4,
+    "success": true,
+    "notes": "20 second demo, box pick-up motion"
+  }
+}

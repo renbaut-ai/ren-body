@@ -1,0 +1,18 @@
+{
+  "id": "20260211_171234",
+  "task": "reach and grab motion - open gripper",
+  "recorded_at": "2026-02-11T17:12:34.731575",
+  "duration_sec": 9.97,
+  "num_trajectory_points": 87,
+  "num_video_frames": 97,
+  "files": {
+    "trajectory": "trajectory.json",
+    "video": "video.mp4",
+    "frames": "frames/"
+  },
+  "metadata": {
+    "hz": 8.7,
+    "success": true,
+    "notes": "First proper training demo with 30fps video"
+  }
+}

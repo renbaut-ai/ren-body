@@ -1,0 +1,18 @@
+{
+  "id": "20260211_191000",
+  "task": "full range of motion calibration v2",
+  "recorded_at": "2026-02-11T19:10:00.776515",
+  "duration_sec": 44.98,
+  "num_trajectory_points": 398,
+  "num_video_frames": 448,
+  "files": {
+    "trajectory": "trajectory.json",
+    "video": "video.mp4",
+    "frames": "frames/"
+  },
+  "metadata": {
+    "hz": 8.8,
+    "success": true,
+    "notes": "45 second sweep, repaired clamps"
+  }
+}

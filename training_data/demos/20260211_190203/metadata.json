@@ -1,0 +1,18 @@
+{
+  "id": "20260211_190203",
+  "task": "full range of motion calibration",
+  "recorded_at": "2026-02-11T19:02:03.548063",
+  "duration_sec": 44.94,
+  "num_trajectory_points": 388,
+  "num_video_frames": 448,
+  "files": {
+    "trajectory": "trajectory.json",
+    "video": "video.mp4",
+    "frames": "frames/"
+  },
+  "metadata": {
+    "hz": 8.6,
+    "success": true,
+    "notes": "45 second sweep through all joint ranges for visual imitation reference"
+  }
+}

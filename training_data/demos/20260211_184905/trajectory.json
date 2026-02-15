@@ -1,0 +1,1839 @@
+[
+  {
+    "time": 0.001317739486694336,
+    "positions": {
+      "shoulder_pan.pos": 0.03998400639744659,
+      "shoulder_lift.pos": -98.5904463586531,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 75.51546391752578,
+      "wrist_roll.pos": 1.2942612942612897,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 0.15463781356811523,
+    "positions": {
+      "shoulder_pan.pos": 0.03998400639744659,
+      "shoulder_lift.pos": -98.5904463586531,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 75.51546391752578,
+      "wrist_roll.pos": 1.2942612942612897,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 0.3560478687286377,
+    "positions": {
+      "shoulder_pan.pos": 0.03998400639744659,
+      "shoulder_lift.pos": -98.5904463586531,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 75.51546391752578,
+      "wrist_roll.pos": 1.2942612942612897,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 0.4933309555053711,
+    "positions": {
+      "shoulder_pan.pos": 0.03998400639744659,
+      "shoulder_lift.pos": -98.5904463586531,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 75.51546391752578,
+      "wrist_roll.pos": 1.2942612942612897,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 0.6944179534912109,
+    "positions": {
+      "shoulder_pan.pos": 0.03998400639744659,
+      "shoulder_lift.pos": -98.5904463586531,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 75.51546391752578,
+      "wrist_roll.pos": 1.2942612942612897,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 0.888232946395874,
+    "positions": {
+      "shoulder_pan.pos": 0.03998400639744659,
+      "shoulder_lift.pos": -98.5904463586531,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 75.51546391752578,
+      "wrist_roll.pos": 1.2942612942612897,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 0.9455156326293945,
+    "positions": {
+      "shoulder_pan.pos": 0.03998400639744659,
+      "shoulder_lift.pos": -98.5904463586531,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 75.51546391752578,
+      "wrist_roll.pos": 1.2942612942612897,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 1.0119068622589111,
+    "positions": {
+      "shoulder_pan.pos": 0.03998400639744659,
+      "shoulder_lift.pos": -98.5904463586531,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 75.51546391752578,
+      "wrist_roll.pos": 1.2942612942612897,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 1.1243658065795898,
+    "positions": {
+      "shoulder_pan.pos": 0.03998400639744659,
+      "shoulder_lift.pos": -98.5904463586531,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 75.51546391752578,
+      "wrist_roll.pos": 1.2942612942612897,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 1.2759549617767334,
+    "positions": {
+      "shoulder_pan.pos": 0.03998400639744659,
+      "shoulder_lift.pos": -98.5904463586531,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 75.51546391752578,
+      "wrist_roll.pos": 1.2942612942612897,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 1.3428637981414795,
+    "positions": {
+      "shoulder_pan.pos": 0.03998400639744659,
+      "shoulder_lift.pos": -98.5904463586531,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 75.51546391752578,
+      "wrist_roll.pos": 1.2942612942612897,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 1.54390287399292,
+    "positions": {
+      "shoulder_pan.pos": 0.03998400639744659,
+      "shoulder_lift.pos": -98.5904463586531,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 75.51546391752578,
+      "wrist_roll.pos": 1.2942612942612897,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 1.6338539123535156,
+    "positions": {
+      "shoulder_pan.pos": 0.03998400639744659,
+      "shoulder_lift.pos": -98.5904463586531,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 75.51546391752578,
+      "wrist_roll.pos": 1.2942612942612897,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 1.8349368572235107,
+    "positions": {
+      "shoulder_pan.pos": 0.03998400639744659,
+      "shoulder_lift.pos": -98.5904463586531,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 75.51546391752578,
+      "wrist_roll.pos": 1.2942612942612897,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 1.9364078044891357,
+    "positions": {
+      "shoulder_pan.pos": 0.03998400639744659,
+      "shoulder_lift.pos": -98.5904463586531,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 75.51546391752578,
+      "wrist_roll.pos": 1.2942612942612897,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 2.1378278732299805,
+    "positions": {
+      "shoulder_pan.pos": 0.03998400639744659,
+      "shoulder_lift.pos": -98.5904463586531,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 75.51546391752578,
+      "wrist_roll.pos": 1.2942612942612897,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 2.335636854171753,
+    "positions": {
+      "shoulder_pan.pos": 0.03998400639744659,
+      "shoulder_lift.pos": -98.5904463586531,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 75.51546391752578,
+      "wrist_roll.pos": 1.2942612942612897,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 2.464754819869995,
+    "positions": {
+      "shoulder_pan.pos": 0.03998400639744659,
+      "shoulder_lift.pos": -98.5904463586531,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 75.51546391752578,
+      "wrist_roll.pos": 1.2942612942612897,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 2.6283698081970215,
+    "positions": {
+      "shoulder_pan.pos": 0.5997600959616136,
+      "shoulder_lift.pos": -98.51213782302271,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 74.91408934707903,
+      "wrist_roll.pos": 1.2942612942612897,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 2.695190668106079,
+    "positions": {
+      "shoulder_pan.pos": 0.5197920831667204,
+      "shoulder_lift.pos": -98.51213782302271,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 70.27491408934708,
+      "wrist_roll.pos": 1.2942612942612897,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 2.827059030532837,
+    "positions": {
+      "shoulder_pan.pos": 0.5197920831667204,
+      "shoulder_lift.pos": -98.51213782302271,
+      "elbow_flex.pos": 95.15260323159785,
+      "wrist_flex.pos": 55.49828178694159,
+      "wrist_roll.pos": 1.2942612942612897,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 2.9928667545318604,
+    "positions": {
+      "shoulder_pan.pos": 0.03998400639744659,
+      "shoulder_lift.pos": -98.51213782302271,
+      "elbow_flex.pos": 85.99640933572712,
+      "wrist_flex.pos": 33.76288659793815,
+      "wrist_roll.pos": 1.4896214896214843,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 3.0762839317321777,
+    "positions": {
+      "shoulder_pan.pos": 0.3598560575769767,
+      "shoulder_lift.pos": -98.51213782302271,
+      "elbow_flex.pos": 83.75224416517057,
+      "wrist_flex.pos": 22.680412371134025,
+      "wrist_roll.pos": 1.4407814407814357,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 3.27731990814209,
+    "positions": {
+      "shoulder_pan.pos": 0.5197920831667204,
+      "shoulder_lift.pos": -98.51213782302271,
+      "elbow_flex.pos": 85.36804308797127,
+      "wrist_flex.pos": 18.728522336769757,
+      "wrist_roll.pos": 1.2942612942612897,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 3.388753890991211,
+    "positions": {
+      "shoulder_pan.pos": 1.4794082367053107,
+      "shoulder_lift.pos": -97.1808927173062,
+      "elbow_flex.pos": 84.91921005385996,
+      "wrist_flex.pos": 18.55670103092784,
+      "wrist_roll.pos": 1.2942612942612897,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 3.4809579849243164,
+    "positions": {
+      "shoulder_pan.pos": 1.2395041983206596,
+      "shoulder_lift.pos": -91.85591229444009,
+      "elbow_flex.pos": 84.02154398563735,
+      "wrist_flex.pos": 18.38487972508591,
+      "wrist_roll.pos": 1.2942612942612897,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 3.5861868858337402,
+    "positions": {
+      "shoulder_pan.pos": 1.1595361855257948,
+      "shoulder_lift.pos": -80.65779169929522,
+      "elbow_flex.pos": 77.10951526032318,
+      "wrist_flex.pos": 18.814432989690715,
+      "wrist_roll.pos": 1.0012210012209977,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 3.6848247051239014,
+    "positions": {
+      "shoulder_pan.pos": 1.1595361855257948,
+      "shoulder_lift.pos": -64.29130775254504,
+      "elbow_flex.pos": 66.15798922800718,
+      "wrist_flex.pos": 18.986254295532646,
+      "wrist_roll.pos": -0.512820512820511,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 3.7396459579467773,
+    "positions": {
+      "shoulder_pan.pos": 1.0795681727309159,
+      "shoulder_lift.pos": -53.876272513703995,
+      "elbow_flex.pos": 58.976660682226225,
+      "wrist_flex.pos": 20.189003436426106,
+      "wrist_roll.pos": -0.805860805860803,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 3.8165090084075928,
+    "positions": {
+      "shoulder_pan.pos": 0.9996001599360369,
+      "shoulder_lift.pos": -40.015661707126085,
+      "elbow_flex.pos": 48.02513464991023,
+      "wrist_flex.pos": 27.49140893470789,
+      "wrist_roll.pos": -1.0012210012209977,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 4.017604827880859,
+    "positions": {
+      "shoulder_pan.pos": 0.6797281087564926,
+      "shoulder_lift.pos": -19.655442443226306,
+      "elbow_flex.pos": 24.775583482944356,
+      "wrist_flex.pos": 60.824742268041234,
+      "wrist_roll.pos": -7.985347985347985,
+      "gripper.pos": 1.0087424344317417
+    }
+  },
+  {
+    "time": 4.219051837921143,
+    "positions": {
+      "shoulder_pan.pos": -6.837265093962415,
+      "shoulder_lift.pos": -18.245888801879403,
+      "elbow_flex.pos": 14.991023339317763,
+      "wrist_flex.pos": 89.9484536082474,
+      "wrist_roll.pos": -10.183150183150175,
+      "gripper.pos": 0.941492938802959
+    }
+  },
+  {
+    "time": 4.418774843215942,
+    "positions": {
+      "shoulder_pan.pos": -6.757297081167536,
+      "shoulder_lift.pos": -17.462803445575574,
+      "elbow_flex.pos": 13.554757630161589,
+      "wrist_flex.pos": 83.1615120274914,
+      "wrist_roll.pos": -10.72039072039071,
+      "gripper.pos": 0.941492938802959
+    }
+  },
+  {
+    "time": 4.490361928939819,
+    "positions": {
+      "shoulder_pan.pos": -5.957616953218718,
+      "shoulder_lift.pos": -17.541111981205944,
+      "elbow_flex.pos": 14.901256732495511,
+      "wrist_flex.pos": 85.30927835051548,
+      "wrist_roll.pos": -10.72039072039071,
+      "gripper.pos": 0.941492938802959
+    }
+  },
+  {
+    "time": 4.691426753997803,
+    "positions": {
+      "shoulder_pan.pos": -3.7984806077568862,
+      "shoulder_lift.pos": -17.541111981205944,
+      "elbow_flex.pos": 15.260323159784562,
+      "wrist_flex.pos": 87.45704467353951,
+      "wrist_roll.pos": -10.622710622710613,
+      "gripper.pos": 0.941492938802959
+    }
+  },
+  {
+    "time": 4.793853998184204,
+    "positions": {
+      "shoulder_pan.pos": -3.7185125949620215,
+      "shoulder_lift.pos": -17.462803445575574,
+      "elbow_flex.pos": 16.3375224416517,
+      "wrist_flex.pos": 87.2852233676976,
+      "wrist_roll.pos": -10.671550671550662,
+      "gripper.pos": 1.882985877605918
+    }
+  },
+  {
+    "time": 4.905574798583984,
+    "positions": {
+      "shoulder_pan.pos": -3.9584166333466584,
+      "shoulder_lift.pos": -17.462803445575574,
+      "elbow_flex.pos": 19.928186714542193,
+      "wrist_flex.pos": 86.25429553264604,
+      "wrist_roll.pos": -11.013431013431017,
+      "gripper.pos": 9.88567585743107
+    }
+  },
+  {
+    "time": 5.017719745635986,
+    "positions": {
+      "shoulder_pan.pos": -4.2782886845261885,
+      "shoulder_lift.pos": -17.462803445575574,
+      "elbow_flex.pos": 26.929982046678646,
+      "wrist_flex.pos": 85.82474226804123,
+      "wrist_roll.pos": -10.671550671550662,
+      "gripper.pos": 22.125084061869536
+    }
+  },
+  {
+    "time": 5.109093904495239,
+    "positions": {
+      "shoulder_pan.pos": -4.2782886845261885,
+      "shoulder_lift.pos": -17.227877838684407,
+      "elbow_flex.pos": 30.96947935368044,
+      "wrist_flex.pos": 81.87285223367698,
+      "wrist_roll.pos": -10.573870573870565,
+      "gripper.pos": 33.35574983187627
+    }
+  },
+  {
+    "time": 5.203871011734009,
+    "positions": {
+      "shoulder_pan.pos": -4.2782886845261885,
+      "shoulder_lift.pos": -15.270164447924827,
+      "elbow_flex.pos": 31.867145421903047,
+      "wrist_flex.pos": 78.17869415807561,
+      "wrist_roll.pos": -10.573870573870565,
+      "gripper.pos": 42.030934767989244
+    }
+  },
+  {
+    "time": 5.4018847942352295,
+    "positions": {
+      "shoulder_pan.pos": -7.796881247500991,
+      "shoulder_lift.pos": -3.2889584964761127,
+      "elbow_flex.pos": 30.610412926391376,
+      "wrist_flex.pos": 75.51546391752578,
+      "wrist_roll.pos": -8.91330891330891,
+      "gripper.pos": 44.98991257565568
+    }
+  },
+  {
+    "time": 5.499348878860474,
+    "positions": {
+      "shoulder_pan.pos": -7.876849260295884,
+      "shoulder_lift.pos": 1.8794048551292093,
+      "elbow_flex.pos": 29.53321364452424,
+      "wrist_flex.pos": 74.14089347079039,
+      "wrist_roll.pos": -9.010989010989007,
+      "gripper.pos": 44.98991257565568
+    }
+  },
+  {
+    "time": 5.593194007873535,
+    "positions": {
+      "shoulder_pan.pos": -7.796881247500991,
+      "shoulder_lift.pos": 4.150352388410326,
+      "elbow_flex.pos": 28.276481149012568,
+      "wrist_flex.pos": 74.39862542955328,
+      "wrist_roll.pos": -9.010989010989007,
+      "gripper.pos": 44.98991257565568
+    }
+  },
+  {
+    "time": 5.794281959533691,
+    "positions": {
+      "shoulder_pan.pos": -7.716913234706112,
+      "shoulder_lift.pos": 4.463586530931863,
+      "elbow_flex.pos": 27.827648114901265,
+      "wrist_flex.pos": 74.14089347079039,
+      "wrist_roll.pos": -8.766788766788764,
+      "gripper.pos": 44.85541358439812
+    }
+  },
+  {
+    "time": 5.961700916290283,
+    "positions": {
+      "shoulder_pan.pos": -8.116753298680521,
+      "shoulder_lift.pos": 4.855129209083799,
+      "elbow_flex.pos": 25.224416517055644,
+      "wrist_flex.pos": 74.22680412371133,
+      "wrist_roll.pos": -8.717948717948715,
+      "gripper.pos": 44.85541358439812
+    }
+  },
+  {
+    "time": 6.139033794403076,
+    "positions": {
+      "shoulder_pan.pos": -8.276689324270293,
+      "shoulder_lift.pos": 5.011746280344553,
+      "elbow_flex.pos": 24.685816876122075,
+      "wrist_flex.pos": 73.02405498281789,
+      "wrist_roll.pos": -8.620268620268618,
+      "gripper.pos": 44.788164088769335
+    }
+  },
+  {
+    "time": 6.227123975753784,
+    "positions": {
+      "shoulder_pan.pos": -9.076369452219112,
+      "shoulder_lift.pos": 5.011746280344553,
+      "elbow_flex.pos": 24.685816876122075,
+      "wrist_flex.pos": 72.33676975945019,
+      "wrist_roll.pos": -8.620268620268618,
+      "gripper.pos": 44.788164088769335
+    }
+  },
+  {
+    "time": 6.291759729385376,
+    "positions": {
+      "shoulder_pan.pos": -9.316273490603749,
+      "shoulder_lift.pos": 5.090054815974938,
+      "elbow_flex.pos": 24.685816876122075,
+      "wrist_flex.pos": 71.99312714776633,
+      "wrist_roll.pos": -8.620268620268618,
+      "gripper.pos": 44.788164088769335
+    }
+  },
+  {
+    "time": 6.392975807189941,
+    "positions": {
+      "shoulder_pan.pos": -9.556177528988414,
+      "shoulder_lift.pos": 5.168363351605336,
+      "elbow_flex.pos": 24.955116696588874,
+      "wrist_flex.pos": 72.33676975945019,
+      "wrist_roll.pos": -8.620268620268618,
+      "gripper.pos": 44.720914593140556
+    }
+  },
+  {
+    "time": 6.590264797210693,
+    "positions": {
+      "shoulder_pan.pos": -9.316273490603749,
+      "shoulder_lift.pos": 5.168363351605336,
+      "elbow_flex.pos": 25.224416517055644,
+      "wrist_flex.pos": 73.8831615120275,
+      "wrist_roll.pos": -8.620268620268618,
+      "gripper.pos": 39.878950907868195
+    }
+  },
+  {
+    "time": 6.791374921798706,
+    "positions": {
+      "shoulder_pan.pos": -9.396241503398642,
+      "shoulder_lift.pos": 5.168363351605336,
+      "elbow_flex.pos": 24.775583482944356,
+      "wrist_flex.pos": 73.1958762886598,
+      "wrist_roll.pos": -8.620268620268618,
+      "gripper.pos": 6.52320107599193
+    }
+  },
+  {
+    "time": 6.889511823654175,
+    "positions": {
+      "shoulder_pan.pos": -9.47620951619352,
+      "shoulder_lift.pos": 4.855129209083799,
+      "elbow_flex.pos": 25.224416517055644,
+      "wrist_flex.pos": 70.36082474226802,
+      "wrist_roll.pos": -8.864468864468861,
+      "gripper.pos": 3.2279757901815738
+    }
+  },
+  {
+    "time": 7.050899028778076,
+    "positions": {
+      "shoulder_pan.pos": -9.636145541783293,
+      "shoulder_lift.pos": 4.541895066562262,
+      "elbow_flex.pos": 24.775583482944356,
+      "wrist_flex.pos": 68.81443298969072,
+      "wrist_roll.pos": -8.717948717948715,
+      "gripper.pos": 1.4122394082044385
+    }
+  },
+  {
+    "time": 7.11707878112793,
+    "positions": {
+      "shoulder_pan.pos": -9.636145541783293,
+      "shoulder_lift.pos": 4.463586530931863,
+      "elbow_flex.pos": 24.775583482944356,
+      "wrist_flex.pos": 69.0721649484536,
+      "wrist_roll.pos": -8.669108669108667,
+      "gripper.pos": 1.4794889038332213
+    }
+  },
+  {
+    "time": 7.248419761657715,
+    "positions": {
+      "shoulder_pan.pos": -10.115953618552581,
+      "shoulder_lift.pos": 4.385277995301479,
+      "elbow_flex.pos": 24.596050269299823,
+      "wrist_flex.pos": 68.72852233676977,
+      "wrist_roll.pos": -8.669108669108667,
+      "gripper.pos": 1.4794889038332213
+    }
+  },
+  {
+    "time": 7.373884916305542,
+    "positions": {
+      "shoulder_pan.pos": -11.23550579768093,
+      "shoulder_lift.pos": 2.4275646045418995,
+      "elbow_flex.pos": 22.890484739676836,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -8.669108669108667,
+      "gripper.pos": 1.4122394082044385
+    }
+  },
+  {
+    "time": 7.575138807296753,
+    "positions": {
+      "shoulder_pan.pos": -12.355057976809277,
+      "shoulder_lift.pos": -10.336726703210658,
+      "elbow_flex.pos": 21.27468581687613,
+      "wrist_flex.pos": 71.90721649484539,
+      "wrist_roll.pos": -9.010989010989007,
+      "gripper.pos": 1.3449899125756557
+    }
+  },
+  {
+    "time": 7.7670159339904785,
+    "positions": {
+      "shoulder_pan.pos": -11.87524990003999,
+      "shoulder_lift.pos": -25.998433829287393,
+      "elbow_flex.pos": 19.210053859964077,
+      "wrist_flex.pos": 70.61855670103091,
+      "wrist_roll.pos": -8.962148962148959,
+      "gripper.pos": 1.4122394082044385
+    }
+  },
+  {
+    "time": 7.85857367515564,
+    "positions": {
+      "shoulder_pan.pos": -11.23550579768093,
+      "shoulder_lift.pos": -31.480031323414252,
+      "elbow_flex.pos": 19.12028725314184,
+      "wrist_flex.pos": 67.69759450171821,
+      "wrist_roll.pos": -8.766788766788764,
+      "gripper.pos": 1.4122394082044385
+    }
+  },
+  {
+    "time": 7.975456714630127,
+    "positions": {
+      "shoulder_pan.pos": -10.995601759296278,
+      "shoulder_lift.pos": -36.88332028191073,
+      "elbow_flex.pos": 19.12028725314184,
+      "wrist_flex.pos": 60.65292096219932,
+      "wrist_roll.pos": -8.717948717948715,
+      "gripper.pos": 1.4794889038332213
+    }
+  },
+  {
+    "time": 8.052807807922363,
+    "positions": {
+      "shoulder_pan.pos": -10.995601759296278,
+      "shoulder_lift.pos": -40.17227877838685,
+      "elbow_flex.pos": 19.479353680430876,
+      "wrist_flex.pos": 56.09965635738831,
+      "wrist_roll.pos": -8.669108669108667,
+      "gripper.pos": 1.4794889038332213
+    }
+  },
+  {
+    "time": 8.13717770576477,
+    "positions": {
+      "shoulder_pan.pos": -11.15553778488605,
+      "shoulder_lift.pos": -42.678151918559124,
+      "elbow_flex.pos": 19.479353680430876,
+      "wrist_flex.pos": 54.72508591065292,
+      "wrist_roll.pos": -8.669108669108667,
+      "gripper.pos": 1.4794889038332213
+    }
+  },
+  {
+    "time": 8.205894947052002,
+    "positions": {
+      "shoulder_pan.pos": -11.23550579768093,
+      "shoulder_lift.pos": -44.244322631166796,
+      "elbow_flex.pos": 19.658886894075394,
+      "wrist_flex.pos": 54.89690721649484,
+      "wrist_roll.pos": -8.669108669108667,
+      "gripper.pos": 1.4794889038332213
+    }
+  },
+  {
+    "time": 8.353937864303589,
+    "positions": {
+      "shoulder_pan.pos": -11.395441823270687,
+      "shoulder_lift.pos": -45.34064212999217,
+      "elbow_flex.pos": 22.531418312387785,
+      "wrist_flex.pos": 54.98281786941581,
+      "wrist_roll.pos": -8.766788766788764,
+      "gripper.pos": 1.546738399462004
+    }
+  },
+  {
+    "time": 8.415580987930298,
+    "positions": {
+      "shoulder_pan.pos": -11.47540983606558,
+      "shoulder_lift.pos": -45.26233359436178,
+      "elbow_flex.pos": 24.416517055655305,
+      "wrist_flex.pos": 55.41237113402062,
+      "wrist_roll.pos": -8.864468864468861,
+      "gripper.pos": 1.546738399462004
+    }
+  },
+  {
+    "time": 8.493197679519653,
+    "positions": {
+      "shoulder_pan.pos": -11.47540983606558,
+      "shoulder_lift.pos": -45.26233359436178,
+      "elbow_flex.pos": 26.391382405745063,
+      "wrist_flex.pos": 59.62199312714779,
+      "wrist_roll.pos": -9.010989010989007,
+      "gripper.pos": 1.546738399462004
+    }
+  },
+  {
+    "time": 8.562371730804443,
+    "positions": {
+      "shoulder_pan.pos": -11.395441823270687,
+      "shoulder_lift.pos": -45.1840250587314,
+      "elbow_flex.pos": 26.7504488330341,
+      "wrist_flex.pos": 66.8384879725086,
+      "wrist_roll.pos": -9.010989010989007,
+      "gripper.pos": 1.546738399462004
+    }
+  },
+  {
+    "time": 8.763448715209961,
+    "positions": {
+      "shoulder_pan.pos": -10.995601759296278,
+      "shoulder_lift.pos": -44.32263116679718,
+      "elbow_flex.pos": 30.78994614003591,
+      "wrist_flex.pos": 83.5910652920962,
+      "wrist_roll.pos": -9.010989010989007,
+      "gripper.pos": 1.546738399462004
+    }
+  },
+  {
+    "time": 8.933201789855957,
+    "positions": {
+      "shoulder_pan.pos": -11.955217912834868,
+      "shoulder_lift.pos": -36.178543461237275,
+      "elbow_flex.pos": 42.45960502692998,
+      "wrist_flex.pos": 76.5463917525773,
+      "wrist_roll.pos": -8.669108669108667,
+      "gripper.pos": 1.546738399462004
+    }
+  },
+  {
+    "time": 9.03188681602478,
+    "positions": {
+      "shoulder_pan.pos": -14.674130347860853,
+      "shoulder_lift.pos": -29.20908379013312,
+      "elbow_flex.pos": 45.2423698384201,
+      "wrist_flex.pos": 67.18213058419244,
+      "wrist_roll.pos": -9.059829059829056,
+      "gripper.pos": 1.546738399462004
+    }
+  },
+  {
+    "time": 9.129819869995117,
+    "positions": {
+      "shoulder_pan.pos": -15.313874450219913,
+      "shoulder_lift.pos": -21.064996084573224,
+      "elbow_flex.pos": 45.2423698384201,
+      "wrist_flex.pos": 62.62886597938143,
+      "wrist_roll.pos": -9.108669108669105,
+      "gripper.pos": 1.546738399462004
+    }
+  },
+  {
+    "time": 9.182755708694458,
+    "positions": {
+      "shoulder_pan.pos": -15.23390643742502,
+      "shoulder_lift.pos": -16.28817541111981,
+      "elbow_flex.pos": 45.0628366247756,
+      "wrist_flex.pos": 62.199312714776624,
+      "wrist_roll.pos": -9.108669108669105,
+      "gripper.pos": 1.546738399462004
+    }
+  },
+  {
+    "time": 9.261717796325684,
+    "positions": {
+      "shoulder_pan.pos": -15.23390643742502,
+      "shoulder_lift.pos": -9.240407204385278,
+      "elbow_flex.pos": 44.703770197486534,
+      "wrist_flex.pos": 61.941580756013735,
+      "wrist_roll.pos": -9.157509157509153,
+      "gripper.pos": 1.546738399462004
+    }
+  },
+  {
+    "time": 9.32056188583374,
+    "positions": {
+      "shoulder_pan.pos": -15.153938424630155,
+      "shoulder_lift.pos": -5.638214565387628,
+      "elbow_flex.pos": 43.536804308797116,
+      "wrist_flex.pos": 62.02749140893471,
+      "wrist_roll.pos": -9.157509157509153,
+      "gripper.pos": 1.546738399462004
+    }
+  },
+  {
+    "time": 9.504267692565918,
+    "positions": {
+      "shoulder_pan.pos": -15.55377848860455,
+      "shoulder_lift.pos": -4.22866092404071,
+      "elbow_flex.pos": 40.12567324955117,
+      "wrist_flex.pos": 61.25429553264604,
+      "wrist_roll.pos": -9.157509157509153,
+      "gripper.pos": 1.546738399462004
+    }
+  },
+  {
+    "time": 9.57139277458191,
+    "positions": {
+      "shoulder_pan.pos": -15.393842463014792,
+      "shoulder_lift.pos": -4.22866092404071,
+      "elbow_flex.pos": 40.12567324955117,
+      "wrist_flex.pos": 60.73883161512029,
+      "wrist_roll.pos": -9.157509157509153,
+      "gripper.pos": 1.546738399462004
+    }
+  },
+  {
+    "time": 9.632213830947876,
+    "positions": {
+      "shoulder_pan.pos": -15.23390643742502,
+      "shoulder_lift.pos": -4.22866092404071,
+      "elbow_flex.pos": 40.03590664272892,
+      "wrist_flex.pos": 60.73883161512029,
+      "wrist_roll.pos": -9.157509157509153,
+      "gripper.pos": 1.6139878950907869
+    }
+  },
+  {
+    "time": 9.833652973175049,
+    "positions": {
+      "shoulder_pan.pos": -15.873650539784094,
+      "shoulder_lift.pos": -4.22866092404071,
+      "elbow_flex.pos": 39.766606822262105,
+      "wrist_flex.pos": 57.560137457044675,
+      "wrist_roll.pos": -9.157509157509153,
+      "gripper.pos": 1.6139878950907869
+    }
+  },
+  {
+    "time": 10.029430866241455,
+    "positions": {
+      "shoulder_pan.pos": -16.19352259096361,
+      "shoulder_lift.pos": -4.22866092404071,
+      "elbow_flex.pos": 40.394973070017954,
+      "wrist_flex.pos": 56.78694158075601,
+      "wrist_roll.pos": -8.815628815628813,
+      "gripper.pos": 1.6139878950907869
+    }
+  },
+  {
+    "time": 10.152668952941895,
+    "positions": {
+      "shoulder_pan.pos": -15.953618552578959,
+      "shoulder_lift.pos": -4.22866092404071,
+      "elbow_flex.pos": 40.484739676840206,
+      "wrist_flex.pos": 56.70103092783506,
+      "wrist_roll.pos": -9.108669108669105,
+      "gripper.pos": 1.6139878950907869
+    }
+  },
+  {
+    "time": 10.318193912506104,
+    "positions": {
+      "shoulder_pan.pos": -15.073970411835262,
+      "shoulder_lift.pos": -4.15035238841034,
+      "elbow_flex.pos": 40.484739676840206,
+      "wrist_flex.pos": 56.70103092783506,
+      "wrist_roll.pos": -8.815628815628813,
+      "gripper.pos": 1.6812373907195695
+    }
+  },
+  {
+    "time": 10.50584077835083,
+    "positions": {
+      "shoulder_pan.pos": -14.83406637345061,
+      "shoulder_lift.pos": -4.15035238841034,
+      "elbow_flex.pos": 40.484739676840206,
+      "wrist_flex.pos": 57.13058419243987,
+      "wrist_roll.pos": -8.815628815628813,
+      "gripper.pos": 1.6812373907195695
+    }
+  },
+  {
+    "time": 10.647965908050537,
+    "positions": {
+      "shoulder_pan.pos": -15.073970411835262,
+      "shoulder_lift.pos": -4.22866092404071,
+      "elbow_flex.pos": 40.394973070017954,
+      "wrist_flex.pos": 57.21649484536081,
+      "wrist_roll.pos": -9.059829059829056,
+      "gripper.pos": 4.169468728984533
+    }
+  },
+  {
+    "time": 10.813592910766602,
+    "positions": {
+      "shoulder_pan.pos": -14.914034386245504,
+      "shoulder_lift.pos": -4.22866092404071,
+      "elbow_flex.pos": 40.305206463195674,
+      "wrist_flex.pos": 57.38831615120276,
+      "wrist_roll.pos": -9.108669108669105,
+      "gripper.pos": 7.195696032279758
+    }
+  },
+  {
+    "time": 11.006993770599365,
+    "positions": {
+      "shoulder_pan.pos": -15.23390643742502,
+      "shoulder_lift.pos": -3.60219263899765,
+      "elbow_flex.pos": 38.3303411131059,
+      "wrist_flex.pos": 64.17525773195877,
+      "wrist_roll.pos": -8.766788766788764,
+      "gripper.pos": 8.742434431741762
+    }
+  },
+  {
+    "time": 11.094639778137207,
+    "positions": {
+      "shoulder_pan.pos": -15.073970411835262,
+      "shoulder_lift.pos": -3.60219263899765,
+      "elbow_flex.pos": 37.881508078994614,
+      "wrist_flex.pos": 65.54982817869416,
+      "wrist_roll.pos": -9.010989010989007,
+      "gripper.pos": 11.09616677874916
+    }
+  },
+  {
+    "time": 11.184187889099121,
+    "positions": {
+      "shoulder_pan.pos": -14.994002399040383,
+      "shoulder_lift.pos": -3.60219263899765,
+      "elbow_flex.pos": 37.881508078994614,
+      "wrist_flex.pos": 65.54982817869416,
+      "wrist_roll.pos": -9.059829059829056,
+      "gripper.pos": 14.458641560188298
+    }
+  },
+  {
+    "time": 11.259012937545776,
+    "positions": {
+      "shoulder_pan.pos": -14.994002399040383,
+      "shoulder_lift.pos": -3.60219263899765,
+      "elbow_flex.pos": 37.971274685816866,
+      "wrist_flex.pos": 65.54982817869416,
+      "wrist_roll.pos": -9.059829059829056,
+      "gripper.pos": 18.426361802286483
+    }
+  },
+  {
+    "time": 11.319403648376465,
+    "positions": {
+      "shoulder_pan.pos": -14.994002399040383,
+      "shoulder_lift.pos": -3.60219263899765,
+      "elbow_flex.pos": 37.971274685816866,
+      "wrist_flex.pos": 65.46391752577318,
+      "wrist_roll.pos": -9.059829059829056,
+      "gripper.pos": 22.19233355749832
+    }
+  },
+  {
+    "time": 11.398253679275513,
+    "positions": {
+      "shoulder_pan.pos": -14.83406637345061,
+      "shoulder_lift.pos": -3.7588097102584186,
+      "elbow_flex.pos": 37.971274685816866,
+      "wrist_flex.pos": 65.46391752577318,
+      "wrist_roll.pos": -9.108669108669105,
+      "gripper.pos": 27.37054472091459
+    }
+  },
+  {
+    "time": 11.508566856384277,
+    "positions": {
+      "shoulder_pan.pos": -14.83406637345061,
+      "shoulder_lift.pos": -3.837118245888803,
+      "elbow_flex.pos": 38.3303411131059,
+      "wrist_flex.pos": 65.54982817869416,
+      "wrist_roll.pos": -9.157509157509153,
+      "gripper.pos": 35.10423671822461
+    }
+  },
+  {
+    "time": 11.571725845336914,
+    "positions": {
+      "shoulder_pan.pos": -14.83406637345061,
+      "shoulder_lift.pos": -3.915426781519187,
+      "elbow_flex.pos": 38.50987432675046,
+      "wrist_flex.pos": 65.63573883161513,
+      "wrist_roll.pos": -9.157509157509153,
+      "gripper.pos": 39.946200403496974
+    }
+  },
+  {
+    "time": 11.646021842956543,
+    "positions": {
+      "shoulder_pan.pos": -14.914034386245504,
+      "shoulder_lift.pos": -3.9937353171495715,
+      "elbow_flex.pos": 38.50987432675046,
+      "wrist_flex.pos": 65.63573883161513,
+      "wrist_roll.pos": -9.157509157509153,
+      "gripper.pos": 45.124411566913246
+    }
+  },
+  {
+    "time": 11.737595796585083,
+    "positions": {
+      "shoulder_pan.pos": -14.914034386245504,
+      "shoulder_lift.pos": -4.22866092404071,
+      "elbow_flex.pos": 37.70197486535011,
+      "wrist_flex.pos": 63.831615120274904,
+      "wrist_roll.pos": -9.157509157509153,
+      "gripper.pos": 46.872898453261605
+    }
+  },
+  {
+    "time": 11.797362804412842,
+    "positions": {
+      "shoulder_pan.pos": -14.83406637345061,
+      "shoulder_lift.pos": -4.22866092404071,
+      "elbow_flex.pos": 36.62477558348294,
+      "wrist_flex.pos": 60.22336769759451,
+      "wrist_roll.pos": -9.157509157509153,
+      "gripper.pos": 46.872898453261605
+    }
+  },
+  {
+    "time": 11.853423833847046,
+    "positions": {
+      "shoulder_pan.pos": -14.83406637345061,
+      "shoulder_lift.pos": -4.22866092404071,
+      "elbow_flex.pos": 36.35547576301616,
+      "wrist_flex.pos": 57.38831615120276,
+      "wrist_roll.pos": -9.157509157509153,
+      "gripper.pos": 46.872898453261605
+    }
+  },
+  {
+    "time": 11.906621932983398,
+    "positions": {
+      "shoulder_pan.pos": -14.83406637345061,
+      "shoulder_lift.pos": -4.306969459671109,
+      "elbow_flex.pos": 36.26570915619391,
+      "wrist_flex.pos": 55.927835051546396,
+      "wrist_roll.pos": -9.157509157509153,
+      "gripper.pos": 46.872898453261605
+    }
+  },
+  {
+    "time": 11.960326910018921,
+    "positions": {
+      "shoulder_pan.pos": -15.073970411835262,
+      "shoulder_lift.pos": -4.306969459671109,
+      "elbow_flex.pos": 36.26570915619391,
+      "wrist_flex.pos": 55.49828178694159,
+      "wrist_roll.pos": -9.157509157509153,
+      "gripper.pos": 46.940147948890385
+    }
+  },
+  {
+    "time": 12.159459829330444,
+    "positions": {
+      "shoulder_pan.pos": -15.393842463014792,
+      "shoulder_lift.pos": -11.90289741581833,
+      "elbow_flex.pos": 36.26570915619391,
+      "wrist_flex.pos": 55.670103092783506,
+      "wrist_roll.pos": -9.157509157509153,
+      "gripper.pos": 46.80564895763282
+    }
+  },
+  {
+    "time": 12.297932863235474,
+    "positions": {
+      "shoulder_pan.pos": -15.393842463014792,
+      "shoulder_lift.pos": -22.787783868441664,
+      "elbow_flex.pos": 37.881508078994614,
+      "wrist_flex.pos": 56.52920962199312,
+      "wrist_roll.pos": -8.962148962148959,
+      "gripper.pos": 46.73839946200404
+    }
+  },
+  {
+    "time": 12.498994827270508,
+    "positions": {
+      "shoulder_pan.pos": -15.393842463014792,
+      "shoulder_lift.pos": -42.36491777603759,
+      "elbow_flex.pos": 45.2423698384201,
+      "wrist_flex.pos": 65.80756013745705,
+      "wrist_roll.pos": -9.108669108669105,
+      "gripper.pos": 46.73839946200404
+    }
+  },
+  {
+    "time": 12.557764768600464,
+    "positions": {
+      "shoulder_pan.pos": -14.914034386245504,
+      "shoulder_lift.pos": -48.94283476898982,
+      "elbow_flex.pos": 47.03770197486534,
+      "wrist_flex.pos": 68.29896907216494,
+      "wrist_roll.pos": -9.108669108669105,
+      "gripper.pos": 46.73839946200404
+    }
+  },
+  {
+    "time": 12.612483739852905,
+    "positions": {
+      "shoulder_pan.pos": -14.754098360655746,
+      "shoulder_lift.pos": -55.36413469068128,
+      "elbow_flex.pos": 48.473967684021545,
+      "wrist_flex.pos": 71.21993127147766,
+      "wrist_roll.pos": -9.108669108669105,
+      "gripper.pos": 46.73839946200404
+    }
+  },
+  {
+    "time": 12.727776765823364,
+    "positions": {
+      "shoulder_pan.pos": -14.274290283886444,
+      "shoulder_lift.pos": -69.14643696162881,
+      "elbow_flex.pos": 50.17953321364453,
+      "wrist_flex.pos": 79.8109965635739,
+      "wrist_roll.pos": -8.766788766788764,
+      "gripper.pos": 46.73839946200404
+    }
+  },
+  {
+    "time": 12.894954919815063,
+    "positions": {
+      "shoulder_pan.pos": -14.994002399040383,
+      "shoulder_lift.pos": -84.25998433829287,
+      "elbow_flex.pos": 53.321364452423694,
+      "wrist_flex.pos": 89.86254295532646,
+      "wrist_roll.pos": -8.620268620268618,
+      "gripper.pos": 46.26765299260256
+    }
+  },
+  {
+    "time": 12.95926570892334,
+    "positions": {
+      "shoulder_pan.pos": -14.674130347860853,
+      "shoulder_lift.pos": -88.33202819107282,
+      "elbow_flex.pos": 55.11669658886893,
+      "wrist_flex.pos": 93.04123711340208,
+      "wrist_roll.pos": -8.620268620268618,
+      "gripper.pos": 42.5689307330195
+    }
+  },
+  {
+    "time": 13.155272006988525,
+    "positions": {
+      "shoulder_pan.pos": -14.514194322271095,
+      "shoulder_lift.pos": -95.92795614722004,
+      "elbow_flex.pos": 57.45062836624774,
+      "wrist_flex.pos": 89.86254295532646,
+      "wrist_roll.pos": -8.620268620268618,
+      "gripper.pos": 6.1197041022192336
+    }
+  },
+  {
+    "time": 13.222563743591309,
+    "positions": {
+      "shoulder_pan.pos": -14.514194322271095,
+      "shoulder_lift.pos": -97.80736100234925,
+      "elbow_flex.pos": 59.15619389587076,
+      "wrist_flex.pos": 85.73883161512029,
+      "wrist_roll.pos": -8.620268620268618,
+      "gripper.pos": 0.6724949562878278
+    }
+  },
+  {
+    "time": 13.386571645736694,
+    "positions": {
+      "shoulder_pan.pos": -14.434226309476202,
+      "shoulder_lift.pos": -98.66875489428348,
+      "elbow_flex.pos": 65.08078994614004,
+      "wrist_flex.pos": 76.1168384879725,
+      "wrist_roll.pos": -8.620268620268618,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 13.453016757965088,
+    "positions": {
+      "shoulder_pan.pos": -14.434226309476202,
+      "shoulder_lift.pos": -98.66875489428348,
+      "elbow_flex.pos": 70.10771992818673,
+      "wrist_flex.pos": 72.766323024055,
+      "wrist_roll.pos": -8.620268620268618,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 13.530994892120361,
+    "positions": {
+      "shoulder_pan.pos": -13.154738104758096,
+      "shoulder_lift.pos": -98.66875489428348,
+      "elbow_flex.pos": 76.92998204667865,
+      "wrist_flex.pos": 68.12714776632302,
+      "wrist_roll.pos": -8.57142857142857,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 13.595331907272339,
+    "positions": {
+      "shoulder_pan.pos": -10.835665733706506,
+      "shoulder_lift.pos": -98.66875489428348,
+      "elbow_flex.pos": 82.04667863554758,
+      "wrist_flex.pos": 61.426116838487985,
+      "wrist_roll.pos": -7.936507936507937,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 13.79574203491211,
+    "positions": {
+      "shoulder_pan.pos": -7.317073170731703,
+      "shoulder_lift.pos": -98.82537196554425,
+      "elbow_flex.pos": 96.05026929982046,
+      "wrist_flex.pos": 52.9209621993127,
+      "wrist_roll.pos": -6.178266178266185,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 13.888751745223999,
+    "positions": {
+      "shoulder_pan.pos": -6.277489004398234,
+      "shoulder_lift.pos": -98.5904463586531,
+      "elbow_flex.pos": 99.37163375224415,
+      "wrist_flex.pos": 54.553264604811005,
+      "wrist_roll.pos": -6.129426129426136,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 14.090059041976929,
+    "positions": {
+      "shoulder_pan.pos": -4.3582566973210675,
+      "shoulder_lift.pos": -96.94596711041504,
+      "elbow_flex.pos": 99.2818671454219,
+      "wrist_flex.pos": 65.12027491408935,
+      "wrist_roll.pos": -6.129426129426136,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 14.178707838058472,
+    "positions": {
+      "shoulder_pan.pos": -4.438224710115961,
+      "shoulder_lift.pos": -93.42208300704777,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 72.766323024055,
+      "wrist_roll.pos": -6.129426129426136,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 14.300255060195923,
+    "positions": {
+      "shoulder_pan.pos": -5.077968812475007,
+      "shoulder_lift.pos": -88.64526233359436,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.93127147766322,
+      "wrist_roll.pos": -6.129426129426136,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 14.41017198562622,
+    "positions": {
+      "shoulder_pan.pos": -5.077968812475007,
+      "shoulder_lift.pos": -87.07909162098669,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.0721649484536,
+      "wrist_roll.pos": -6.129426129426136,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 14.541844844818115,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.39232576350823,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.3298969072165,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 14.640897750854492,
+    "positions": {
+      "shoulder_pan.pos": -4.7580967612954765,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 14.706637859344482,
+    "positions": {
+      "shoulder_pan.pos": -4.918032786885249,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 14.770041704177856,
+    "positions": {
+      "shoulder_pan.pos": -4.918032786885249,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 14.8506498336792,
+    "positions": {
+      "shoulder_pan.pos": -4.918032786885249,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 14.969084978103638,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 15.063055753707886,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 15.237531900405884,
+    "positions": {
+      "shoulder_pan.pos": -4.83806477409037,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 15.340165853500366,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 15.398179769515991,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 15.461650848388672,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 15.662702798843384,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 15.838669776916504,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 15.985614776611328,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 16.045496702194214,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 16.16628098487854,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 16.219940900802612,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 16.357374906539917,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 16.431808710098267,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 16.488608837127686,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 16.56998872756958,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 16.650993824005127,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 16.752290725708008,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 16.927244663238525,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 17.12828278541565,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 17.21416664123535,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 17.281329870224,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 17.44625687599182,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 17.518430948257446,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 17.655940771102905,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 17.85701894760132,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 17.989588975906372,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 18.149979829788208,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 18.31486701965332,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 18.515899896621704,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 18.633712768554688,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 18.765764713287354,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 18.832160711288452,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 18.99817180633545,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 19.08700394630432,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 19.209750652313232,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 19.37100863456726,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.46140035906643,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 19.485333681106567,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 19.558159828186035,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 19.62406587600708,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 19.68985676765442,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 19.74548363685608,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 19.815691709518433,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  },
+  {
+    "time": 19.955161809921265,
+    "positions": {
+      "shoulder_pan.pos": -4.998000799680128,
+      "shoulder_lift.pos": -87.548942834769,
+      "elbow_flex.pos": 99.55116696588868,
+      "wrist_flex.pos": 69.41580756013747,
+      "wrist_roll.pos": -6.227106227106233,
+      "gripper.pos": 0.8069939475453934
+    }
+  }
+]
